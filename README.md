@@ -5,9 +5,7 @@
   ### 🧙‍♂️ Fullstack Разработчик | Архитектор Решений | Tech Enthusiast
   
   [![Portfolio](https://img.shields.io/badge/🌐_Портфолио-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nickknyaz.dev)
-  [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickknyaz)
-  [![LinkedIn](https://img.shields.io/badge/📄_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nickknyaz)
-  [![LeetCode](https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nickknyaz)
+  [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickKnyz)
   
   ---
 
