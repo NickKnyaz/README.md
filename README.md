@@ -12,6 +12,5 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ## 📫 How to contact
   
-  💼 **Для бизнес-предложений:** [business@nickknyaz.dev](mailto:business@nickknyaz.dev)  
-  💻 **По техническим вопросам:** [github@nickknyaz.dev](mailto:github@nickknyaz.dev)
+  💼 **Для бизнес-предложений:** [business@nickknyaz.dev](neketosk171@gmail.com)  
   
