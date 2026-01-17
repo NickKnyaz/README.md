@@ -28,11 +28,3 @@
   💼 **Для бизнес-предложений:** [business@nickknyaz.dev](mailto:business@nickknyaz.dev)  
   💻 **По техническим вопросам:** [github@nickknyaz.dev](mailto:github@nickknyaz.dev)
   
-  ---
-  
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=nickknyaz&color=blueviolet&style=flat-square" />
-    <p>✨ <i>"Код — это поэзия логики"</i> ✨</p>
-  </div>
-  
-</div>
