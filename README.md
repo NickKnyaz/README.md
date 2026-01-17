@@ -2,7 +2,7 @@
   
   # 👋 Hi, I Nick Knyaz
   
-  ### 🧙‍♂️Developer | Developer Discord Bot 
+  ### 🧙‍♂️Developer Discord Bot 
 
   [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickKnyz)
   
