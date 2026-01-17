@@ -9,7 +9,7 @@
   ---
   ### **🧙‍♂️I write bots using this code.**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ## 📫 How to contact
+  ## 📫 My mailing address
   
   📫 **Communication with me:** [neketosk171@gmail.com](neketosk171@gmail.com)  
   
