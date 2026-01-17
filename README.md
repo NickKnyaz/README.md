@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Hi, I Nick Knyaz
+  # 👋 Hi, I Nick Knyaz👋
   
   ### 🧙‍♂️Developer Discord Bot🧙‍♂️ 
 
