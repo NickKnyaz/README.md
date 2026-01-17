@@ -24,25 +24,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  
-  ### **DevOps & Tools**
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-  ---
-
  
- 
-  ## 🤝 Сотрудничество
-  
-  Открыт к:
-  - 🚀 Созданию инновационных проектов
-  - 💡 Консультациям по архитектуре
-  - 👨‍💻 Совместной разработке Open Source
-  - 🎯 Менторству начинающих разработчиков
-  
   ## 📫 Как связаться
   
   💼 **Для бизнес-предложений:** [business@nickknyaz.dev](mailto:business@nickknyaz.dev)  
