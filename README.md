@@ -10,5 +10,4 @@
  
   ## 📫 Contact with me
   
-  📫 **Communication with me:** [neketosk171@gmail.com](neketosk171@gmail.com)  
-   [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickKnyz)
+  📫 **Communication with me:** [neketosk171@gmail.com](neketosk171@gmail.com) [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickKnyz)
