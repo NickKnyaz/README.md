@@ -2,7 +2,7 @@
   
   # 👋 Hi, I Nick Knyaz
   
-  ### 🧙‍♂️Developer Discord Bot 
+  ### 🧙‍♂️Developer Discord Bot🧙‍♂️ 
 
   ---
   ### **⭐I write bots using this code.⭐**
